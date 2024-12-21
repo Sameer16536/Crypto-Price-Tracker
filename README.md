@@ -24,7 +24,7 @@ A real-time cryptocurrency tracking application built with React, TypeScript, an
 
 - **Data:**
   - Binance WebSocket API
-  - Supabase
+  - Supabase for Auth and DB
 
 ## Getting Started
 
